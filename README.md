@@ -13,5 +13,4 @@ Caution, the script needs the following libraries:
 <ul>
 <li>Requests</li>
 <li>BeautifulSoup</li>
-<li>Zipfile</li>
 </ul>
